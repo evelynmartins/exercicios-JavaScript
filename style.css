@@ -1,0 +1,40 @@
+body {
+    background-color: #EAE1D7;
+    font-family: Georgia, 'Times New Roman', Times, serif
+}
+
+h1 {
+    color: #DD4B4F;
+
+}
+
+h2 {
+    color: #685F74;
+}
+
+#corpo {
+
+    background-color: #F7B8B4;
+    height: 110%;
+    width: 900px;
+    padding-top: 5px;
+    padding-left:20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    color: #3f8368;
+    text-align:justify;
+
+}
+
+.botao{
+    border-radius: 120px;
+    background-color:#D8EEE7;
+    border:none;
+    height:30px;
+    width:150px;
+    cursor: pointer;
+    color: #c98045 ;
+    font-weight: bolder;
+    
+    
+}
